@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smsderify",
+        "uuid": 17000774,
+        "checksum": "w5bjj8"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
